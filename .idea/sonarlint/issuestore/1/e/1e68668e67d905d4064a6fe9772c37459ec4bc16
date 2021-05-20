@@ -1,0 +1,16 @@
+
+Q
+java:S1128"6Remove this unused import 'redis.clients.jedis.Tuple'.(Â©ü‰ıÿÿÿÿ
+E
+java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿ
+F
+java:S1128
+"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+
+java:S1128"bRemove this unused import 'com.github.dockerjava.zerodep.shaded.org.apache.hc.core5.util.Timeout'.(ÕÛĞ8«î°ò—/
+E
+java:S1068"(Remove this unused "time" private field.(ÛşÆ°8«î°ò—/
+j
+java:S1192"TDefine a constant instead of duplicating this literal "Not yet implemented" 3 times.(…Ûö
+S
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ

@@ -1,0 +1,13 @@
+
+j
+java:S1104"TMake username a static final constant or non-public and provide accessors if needed.(«ÔÃ
+p
+java:S1104"UMake firstname a static final constant or non-public and provide accessors if needed.(Ú³Šûùÿÿÿÿ
+o
+java:S1104"TMake birthday a static final constant or non-public and provide accessors if needed.(Óä£îùÿÿÿÿ
+s
+java:S1104"XMake passwordHash a static final constant or non-public and provide accessors if needed.(Ê´Ïóıÿÿÿÿ
+o
+java:S1104"TMake lastname a static final constant or non-public and provide accessors if needed.(ÔØÙÒÿÿÿÿÿ
+M
+java:S2065"0Remove the "transient" modifier from this field.(«ÔÃ8øêôÄ˜/
