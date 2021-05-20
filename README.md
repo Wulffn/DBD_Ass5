@@ -11,6 +11,7 @@ Se PostManagementImpl and UserManagementImpl
 ## Task 3
 In a readme, write a short explanation of your redis data model. It should be clear enough for a developer to be able to implement the same thing.
 
+"""
 users: set af usernames
 
 user:username:
@@ -25,3 +26,4 @@ follow: set af usernames
 followed: set af usernames
   
 posts: set af timestamp og message
+"""
